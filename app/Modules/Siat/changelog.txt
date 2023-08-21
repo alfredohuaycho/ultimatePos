@@ -1,0 +1,27 @@
+Version 1.0.14
+==============
+- Fixed: Subida de certificados
+- Fixed: Validacion de descuentos por item
+- Fixed: Correcion de montos giftcard
+- Fixed: Correcion de error al mostrar NIT no valido en el facturador
+- Mejoras: Listado de cliente
+- Added: Busqueda de clientes
+- Added: Asignacion de logo a la factura desde la carpeta data (logo.png)
+
+Version 1.0.13
+==============
+- Fixed: Correcion de errores en la demo
+- Fixed: Correcion de errores en creacion de directorios (windows)
+
+Version 1.0.12
+================
+- Added: Configuracion de firma digital
+- Added: Configuracion de codigos CAFC
+
+Version 1.0.11
+================
+- Fixed: Sincronizacion Puntos Venta
+- Fixed: Cerrar modal de sucursales y Puntos de Venta
+- Fixed: Correcion de fechas CUFD
+- Added: Busqueda de productos
+
